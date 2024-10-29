@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/agriculture_ecommerce_ui/static/css/main.834fca9a.css",
+    "main.css": "/agriculture_ecommerce_ui/static/css/main.3e53fb78.css",
     "main.js": "/agriculture_ecommerce_ui/static/js/main.aa432cb5.js",
     "static/js/453.d86a9ac2.chunk.js": "/agriculture_ecommerce_ui/static/js/453.d86a9ac2.chunk.js",
     "static/media/bikerPartindoCropped.jpg": "/agriculture_ecommerce_ui/static/media/bikerPartindoCropped.6bab1c7a1b037134690b.jpg",
@@ -10,12 +10,12 @@
     "static/media/instagramLogoWhite.png": "/agriculture_ecommerce_ui/static/media/instagramLogoWhite.e3d5e77eea3aae7dfd2d.png",
     "static/media/facebookLogoWhite.png": "/agriculture_ecommerce_ui/static/media/facebookLogoWhite.d38c8e51a0a7db29ac47.png",
     "index.html": "/agriculture_ecommerce_ui/index.html",
-    "main.834fca9a.css.map": "/agriculture_ecommerce_ui/static/css/main.834fca9a.css.map",
+    "main.3e53fb78.css.map": "/agriculture_ecommerce_ui/static/css/main.3e53fb78.css.map",
     "main.aa432cb5.js.map": "/agriculture_ecommerce_ui/static/js/main.aa432cb5.js.map",
     "453.d86a9ac2.chunk.js.map": "/agriculture_ecommerce_ui/static/js/453.d86a9ac2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.834fca9a.css",
+    "static/css/main.3e53fb78.css",
     "static/js/main.aa432cb5.js"
   ]
 }
