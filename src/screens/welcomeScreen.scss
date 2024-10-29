@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.thanksImage{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: url(../img/bikerPartindoCropped.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  .darkOverlay{
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.35);
+  
+    .mainContainer{
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      flex-wrap: wrap;
+      font-family: Montserrat;
+      padding: 80px;
+
+      .messageContainer{
+        margin-top: 10vh;
+        max-width: 50vw;
+        text-align: center;
+        position: relative;
+        font-size: 45px;
+        color: aliceblue;
+      }
+
+      .optionsGrid{
+        margin-top: 5vh;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+      
+        .userOption{
+          border: solid;
+          border-radius: 1rem;
+          border-color: #fff;
+          // background: rgba(255, 255, 255, 0.35);
+          background: rgba(0, 0, 0, 0.5);
+          border-width: 2px;
+          padding: 0.7rem;
+          color: #fff;
+          font-size: 1.5rem;
+          text-align: center;
+          line-height: 100%;
+        }
+      }
+    }
+  }
+}
+
+/*smartphones*/
+@media(max-width: 500px){
+
+  .thanksImage{
+    .darkOverlay{
+      .mainContainer{
+        padding: 5vw;
+        padding-top: 13vh;
+        .messageContainer{
+          margin-top: 0;
+          font-size: 1.4rem;
+          max-width: 90vw;
+        }
+        .optionsGrid{
+          height: 70%;
+        //refatorar esse código abaixo dessas divs .userOption que precisam virar componentes
+        //as .userOption são o que são tanto em mobile quanto em widescreen.
+          .userOption{
+            height: 100px;
+            line-height: 70px;
+
+            span{
+              font-size: 1rem;
+              display: inline-block;
+              vertical-align: middle;
+              line-height: normal;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+ /*tablet*/
+@media(min-width: 501px) and (max-width: 850px){
+}
+
+/*Widescreen*/
+@media(min-width: 850px) and (max-width: 1200px){
+}
+
+/*Landscape*/
+@media(min-width: 1201px){
+}
