@@ -8,7 +8,7 @@ Voluntários são bem vindos.
 
 
 # Welcome!
-This project is an ecommerce user interface for agriculture products from cooperatives. It's not finished, and, for this reason, only mobile view is ready. It's available at github pages. If your going to visualize it in a desktop, don't forget to do it with mobile view with CTRL + SHIFT + M 
+This project is an ecommerce user interface for agriculture products from cooperatives. It's not finished, and, for this reason, only mobile view is ready. It's available at github pages. If your going to visualize it in a desktop, don't forget to do it with mobile view using CTRL + SHIFT + M 
 
 https://licuru.github.io/agriculture_ecommerce_ui/
 
