@@ -18,7 +18,7 @@ const ReactstrapNavbar = (props) => {
   return (
     <div className="reactstrapNavbar">
       <Navbar color="dark" dark fixed expand="md">
-        <NavbarBrand href="/" className="text-light">Livres B. Santista</NavbarBrand>
+        <NavbarBrand href="/" className="text-light">Cooperativa Exemplo</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar >
           <Nav className="mr-auto" navbar>
