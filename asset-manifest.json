@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agriculture_ecommerce_ui/static/css/main.f855e6bc.css",
+    "main.js": "/agriculture_ecommerce_ui/static/js/main.44ad34fa.js",
+    "static/js/453.2daf5041.chunk.js": "/agriculture_ecommerce_ui/static/js/453.2daf5041.chunk.js",
+    "static/media/logo.svg": "/agriculture_ecommerce_ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agriculture_ecommerce_ui/index.html",
+    "main.f855e6bc.css.map": "/agriculture_ecommerce_ui/static/css/main.f855e6bc.css.map",
+    "main.44ad34fa.js.map": "/agriculture_ecommerce_ui/static/js/main.44ad34fa.js.map",
+    "453.2daf5041.chunk.js.map": "/agriculture_ecommerce_ui/static/js/453.2daf5041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.44ad34fa.js"
+  ]
+}
