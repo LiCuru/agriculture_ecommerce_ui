@@ -1,5 +1,5 @@
 # Bem vindo!
-Este projeto é uma interface de usuário para ecommcerce de produtos agrícolas em cooperativas. Não está terminado, e, por isso, apenas a visualização em tela de celular é o que está pronto ainda. Ele está disponível no github pages. Se for visualizar em um desktop, não esqueça de visualizar no modo de tela de celular com CTRL + SHIFT + M:
+Este projeto é uma interface de usuário para ecommerce de produtos agrícolas em cooperativas. Não está terminado, e, por isso, apenas a visualização em tela de celular é o que está pronto ainda. Ele está disponível no github pages. Se for visualizar em um desktop, não esqueça de visualizar no modo de tela de celular com CTRL + SHIFT + M:
 
 https://licuru.github.io/agriculture_ecommerce_ui/
 
